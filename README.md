@@ -55,7 +55,7 @@ You must display telemetry data from the buggy (obstacle reports and distance re
 	
 You must lead your buggy around the track 2 times (one clockwise loop, and one anticlockwise loop) using a  combination of the line following im plementation devised for the Bronze challenge and your ultrasonic PID implementation.   
 
-# Gold Challenge
+## Gold Challenge
 
 Impress us; get as far as you can and document your work well.  
 The one stipulation here is that y ou must  use  the Nano 33 IoT’s on-board  IMU and  make creative  use of the acceleration and/or orientation data.  Consider reporting your heading and plotting it on screen.
